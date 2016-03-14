@@ -23,4 +23,5 @@
    * [制作头像](3-CombiningShapes/3.4-Round-Profile-Avatars.md)
    * [图像导出](3-CombiningShapes/3.5-Image-Export.md)
    * [PNG](3-CombiningShapes/3.6-PNG.md)
+   * 3.7-PDF
 
