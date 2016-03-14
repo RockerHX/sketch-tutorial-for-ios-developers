@@ -9,5 +9,5 @@
    * [图形制作](Basic/1.5-Styling-A-Shape.md)
    * [图层列表](Basic/1.6-Layer-List.md)
 * [矢量工具](VectorTool/VectorTool.md)
-   * 直线图形
+   * [直线图形](VectorTool/2.1-Shapes-With-Straight-Lines.md)
 
