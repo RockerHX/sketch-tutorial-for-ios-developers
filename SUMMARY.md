@@ -12,7 +12,7 @@
    * [直线图形](2-VectorTool/2.1-Shapes-With-Straight-Lines.md)
    * [旋转副本](2-VectorTool/2.2-Rotate-Copies.md)
    * [剪刀](2-VectorTool/2.3-Scissors.md)
-   * [操作杆](VectorTool/2.4-Modes-And-Handles.md)
+   * [操作杆](2-VectorTool/2.4-Modes-And-Handles.md)
    * [贝塞尔曲线](VectorTool/2.5-Bezier-Curve-Theory.md)
    * [上手](VectorTool/2.6-Vector-Handles-In-Action.md)
    * [自定义图标](VectorTool/2.7-Creating-Custom-Icons.md)
