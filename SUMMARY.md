@@ -17,4 +17,5 @@
    * [上手](2-VectorTool/2.6-Vector-Handles-In-Action.md)
    * [自定义图标](2-VectorTool/2.7-Creating-Custom-Icons.md)
 * [图形合并](3-CombiningShapes/3.0-CombiningShapes.md)
+   * 融合
 
