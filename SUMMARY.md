@@ -15,6 +15,6 @@
    * [操作杆](2-VectorTool/2.4-Modes-And-Handles.md)
    * [贝塞尔曲线](2-VectorTool/2.5-Bezier-Curve-Theory.md)
    * [上手](VectorTool/2.6-Vector-Handles-In-Action.md)
-   * [自定义图标](VectorTool/2.7-Creating-Custom-Icons.md)
+   * [自定义图标](2-VectorTool/2.7-Creating-Custom-Icons.md)
 * [图形合并](3-CombiningShapes/3.0-CombiningShapes.md)
 
