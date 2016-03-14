@@ -10,5 +10,5 @@
    * [图层列表](Basic/1.6-Layer-List.md)
 * [矢量工具](VectorTool/VectorTool.md)
    * [直线图形](VectorTool/2.1-Shapes-With-Straight-Lines.md)
-   * 旋转副本
+   * [旋转副本](VectorTool/2.2-Rotate-Copies.md)
 
