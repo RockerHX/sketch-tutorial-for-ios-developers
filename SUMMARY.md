@@ -18,5 +18,5 @@
    * [自定义图标](2-VectorTool/2.7-Creating-Custom-Icons.md)
 * [图形合并](3-CombiningShapes/3.0-CombiningShapes.md)
    * [融合](3-CombiningShapes/3.1-Union.md)
-   * 相差
+   * [相差](3-CombiningShapes/3.2-Subtract.md)
 
