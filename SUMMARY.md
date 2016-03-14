@@ -9,7 +9,7 @@
    * [图形制作](1-Basic/1.5-Styling-A-Shape.md)
    * [图层列表](1-Basic/1.6-Layer-List.md)
 * [矢量工具](VectorTool/VectorTool.md)
-   * [直线图形](VectorTool/2.1-Shapes-With-Straight-Lines.md)
+   * [直线图形](2-VectorTool/2.1-Shapes-With-Straight-Lines.md)
    * [旋转副本](VectorTool/2.2-Rotate-Copies.md)
    * [剪刀](VectorTool/2.3-Scissors.md)
    * [操作杆](VectorTool/2.4-Modes-And-Handles.md)
