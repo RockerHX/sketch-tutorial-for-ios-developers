@@ -19,5 +19,5 @@
 * [图形合并](3-CombiningShapes/3.0-CombiningShapes.md)
    * [融合](3-CombiningShapes/3.1-Union.md)
    * [相差](3-CombiningShapes/3.2-Subtract.md)
-   * 填充、轮廓
+   * [填充、轮廓](3-CombiningShapes/3.3-Fill-Vs-Outline.md)
 
