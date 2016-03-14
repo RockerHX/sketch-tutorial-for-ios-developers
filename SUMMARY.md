@@ -14,6 +14,6 @@
    * [剪刀](VectorTool/2.3-Scissors.md)
    * [操作杆](VectorTool/2.4-Modes-And-Handles.md)
    * [贝塞尔曲线](VectorTool/2.5-Bezier-Curve-Theory.md)
-   * [上手](VectorTool/2.6-Operation.md)
+   * [上手](VectorTool/2.6-Vector-Handles-In-Action.md)
    * [自定义图标](VectorTool/2.7-Creating-Custom-Icons.md)
 
