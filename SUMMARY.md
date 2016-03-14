@@ -21,5 +21,5 @@
    * [相差](3-CombiningShapes/3.2-Subtract.md)
    * [填充、轮廓](3-CombiningShapes/3.3-Fill-Vs-Outline.md)
    * [制作头像](3-CombiningShapes/3.4-Round-Profile-Avatars.md)
-   * 图像导出
+   * [图像导出](3-CombiningShapes/3.5-Image-Export.md)
 
