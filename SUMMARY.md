@@ -7,5 +7,5 @@
    * [复制粘贴](Basic/1.3-CopyPaste.md)
    * [基础形状](Basic/1.4-BasicShapes.md)
    * [图形制作](Basic/1.5-StylingAShape.md)
-   * 图层列表
+   * [图层列表](Basic/1.6-Layer-List.md)
 
