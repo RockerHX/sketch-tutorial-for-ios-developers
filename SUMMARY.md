@@ -16,4 +16,5 @@
    * [贝塞尔曲线](VectorTool/2.5-Bezier-Curve-Theory.md)
    * [上手](VectorTool/2.6-Vector-Handles-In-Action.md)
    * [自定义图标](VectorTool/2.7-Creating-Custom-Icons.md)
+* 图形合并
 
