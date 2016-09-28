@@ -3,10 +3,15 @@
 ![](http://cdn3.raywenderlich.com/wp-content/uploads/2015/10/delete.png)
 
 >注意：这是一篇译文，如果你够装逼，完全可以浏览原文：[Sketch Tutorial for iOS Developers](http://www.raywenderlich.com/117609/sketch-indie-developers)
+>
 >如需转载，请注明出处。谢谢！！！
+>
 >转载地址：[http://www.rockerhx.com/2016/02/02/2016-02-02-Sketch-Tutorial-for-iOS-Developers/](http://www.rockerhx.com/2016/02/02/2016-02-02-Sketch-Tutorial-for-iOS-Developers/)
+>
 >此教程已整理成GitBook：[GitBook - 给iOS开发者的Sketch入门教程](https://www.gitbook.com/book/shicang1990/sketch-tutorial-for-ios-developers/details)
+>
 >国内入口：[极客学院 - 给iOS开发者的Sketch入门教程](http://wiki.jikexueyuan.com/project/sketch-tutorial-for-ios-developers/)
+>
 
 
 作为一名iOS开发者，我经历过几个没有设计师的项目，结果就是，痛苦的一逼。
